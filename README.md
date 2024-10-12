@@ -1,5 +1,8 @@
 # 403 Bypasser - VesperaIX
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VesperaIX/Anti403/refs/heads/main/Anti%20403.png">
+</div>
 ## Deskripsi
 403 Bypasser adalah alat sederhana yang dirancang untuk mendeteksi kemungkinan bypass pada direktori yang memiliki izin akses 403 pada website. Dengan menggunakan berbagai payload, script ini melakukan pengujian untuk melihat apakah akses dapat diperoleh meskipun terdapat batasan pada server.
 
