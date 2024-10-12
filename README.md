@@ -42,7 +42,7 @@ python3 bypass.py https://example.com/ admin
 - Pastikan URL diakhiri dengan `/`.
 - Direktori tidak boleh diakhiri dengan `/`.
 
-## Regards
+## Pesan
 Saya tidak bertangung jawab atas kerusakan ataupun tindakan pengguna lain yang menggunakan alat ini, ini hanya untuk uji coba keamanan dan harus memiliki izin yang jelas jika ingin menerapkannya terhadap sistem orang lain
 
 ## Regards
